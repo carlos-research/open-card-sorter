@@ -2,8 +2,8 @@ var texts = {
     appTitle: [ `Open Card Sorter` ],
     introTitle: [ `Vamos começar%userNameComma?` ],
     introText: [
-        `Nesta atividade de card sorting, queremos entender melhor como você relaciona algumas informações para projetarmos uma experiência do usuário melhor.`,
-        `Ela dura em torno de <b>10 a 15 minutos</b> para ser completada. É rapidinho e vai nos ajudar muito!`,
+        `Nesta atividade de card sorting, conto com sua colaboração para verificar como você relaciona os itens listados em 6 colunas, para validarmos o modelo da pesquisa.`,
+        `Ela dura em torno de <b>10 a 15 minutos</b> para ser completada. É rapidinho e sua colaboração vai ajudar muito!`,
     ],
     introPreAuth: [
         `Para começar, como posso te chamar?`,
@@ -27,21 +27,21 @@ var texts = {
             title: [`Passo 1`],
             text: [
                 `Dá uma olhada nos cartões ao lado, %userName.`,
-                `Sua tarefa será organizar esses cards em grupos de similaridade que façam sentido para você.`,
-                `Arraste um dos cards para a direita para criar seu primeiro grupo.`
+                `Sua tarefa será organizar esses cards em 6 colunas (dinamismo ambiental, sensing, seizing, transforming, digitalização das capacidades ordinárias e desempenho organizacional) de forma que faça sentido para você.`,
+                `Arraste um dos cards para a direita para iniciar seu primeiro grupo. A proposta é que ao final você tenha distribuído os cards nos 6 grupos mencionados.`
             ]
         },
         {
             title: [`Passo 2`],
             text: [
-                `Mova os cartões ao lado até que todos estejam agrupados. Agrupe cartões que você considera relacionados. Você pode criar quantos grupos quiser, inclusive grupos com apenas 1 cartão!`,
+                `Mova os cartões ao lado até que todos estejam agrupados. Agrupe cartões que você considera relacionados. Por favor, crie seis grupos com os seguintes títulos (dinamismo ambiental, sensing, seizing, transforming, digitalização das capacidades ordinárias e desempenho organizacional), o número de cartões em cada grupo fica a seu critério!`,
                 `Lembre-se, %userName: não tem certo ou errado, você escolhe como agrupar os cartões de acordo com o que fizer mais sentido para você!`
             ]
         },
         {
             title: [`Passo 3`],
             text: [
-                `Revise os grupos e <strong>dê um nome para cada um</strong> que você criou. Pense em um título que represente os cartões contidos nele.`,
+                `Revise os grupos e <strong>verifique se para cada um</strong> tem um dos nomes indicados. Avalie a relação entre o título e os cartões contidos nele.`,
             ]
         },
         {
@@ -62,7 +62,7 @@ var texts = {
 
     endingTitle: [ `Obrigado%userNameComma!` ],
     endingText: [
-        `Sua atividade vai ajudar bastante na construção de uma experiência digital incrível.`,
+        `Sua atividade vai ajudar bastante na construção de uma pesquisa voltada a digitalização das cooperativas e a análise das capacidades envolvidas.`,
         `Muito obrigado pela participação!`,
     ],
 
