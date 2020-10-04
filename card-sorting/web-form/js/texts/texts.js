@@ -2,11 +2,11 @@ var texts = {
     appTitle: [ `Open Card Sorter` ],
     introTitle: [ `Vamos começar%userNameComma?` ],
     introText: [
-        `Nesta atividade de card sorting, queremos entender melhor como você relaciona algumas informações para projetarmos uma experiência do usuário melhor.`,
-        `Ela dura em torno de <b>10 a 15 minutos</b> para ser completada. É rapidinho e vai nos ajudar muito!`,
+        `Nesta atividade de card sorting, conto com a sua colaboração para verificar qual o seu entendimento da melhor relação entre os construtos (grupos) e itens (cards) propostos.`,
+        `Essa atividade dura em torno de <b>10 a 15 minutos</b> para ser completada. É rápido e sua contribuição será muito valiosa na pesquisa!`,
     ],
     introPreAuth: [
-        `Para começar, como posso te chamar?`,
+        `Para começar, coloque seu nome e sobrenome`,
     ],
     start: [`Iniciar`],
     nameInputPlaceholder: [`Digite seu nome`],
@@ -26,22 +26,22 @@ var texts = {
         {
             title: [`Passo 1`],
             text: [
-                `Dá uma olhada nos cartões ao lado, %userName.`,
-                `Sua tarefa será organizar esses cards em grupos de similaridade que façam sentido para você.`,
-                `Arraste um dos cards para a direita para criar seu primeiro grupo.`
+                `Olhe os cartões do lado esquerdo, %userName.`,
+                `Sua tarefa será organizar esses cards entre seis colunas (dinamismo ambiental, sensing, seizing, transforming, digitalização das capacidades ordinárias, desempenho organizacional) de forma que façam sentido para você.`,
+                `Arraste um dos cards para a direita para criar a primeira coluna (grupo).`
             ]
         },
         {
             title: [`Passo 2`],
             text: [
-                `Mova os cartões ao lado até que todos estejam agrupados. Agrupe cartões que você considera relacionados. Você pode criar quantos grupos quiser, inclusive grupos com apenas 1 cartão!`,
+                `Mova os cartões ao lado até que todos estejam agrupados entre as seis colunas propostas. Agrupe cartões que você considera relacionados. Você pode posicionar os cartões entre as 6 colunas e formar grupos com o número de cartões que considerar adequado!`,
                 `Lembre-se, %userName: não tem certo ou errado, você escolhe como agrupar os cartões de acordo com o que fizer mais sentido para você!`
             ]
         },
         {
             title: [`Passo 3`],
             text: [
-                `Revise os grupos e <strong>dê um nome para cada um</strong> que você criou. Pense em um título que represente os cartões contidos nele.`,
+                `Revise os grupos e <strong> verifique se constam os 6 grupos</strong> propostos. Lembrando os grupos: dinamismo ambiental, sensing, seizing, transforming, digitalização das capacidades ordinárias, desempenho organizacional.`,
             ]
         },
         {
@@ -62,7 +62,7 @@ var texts = {
 
     endingTitle: [ `Obrigado%userNameComma!` ],
     endingText: [
-        `Sua atividade vai ajudar bastante na construção de uma experiência digital incrível.`,
+        `Sua colaboração vai ajudar bastante na construção de uma pesquisa direcionada a transformação digital em cooperativas na perspectiva das capacidades dinâmicas.`,
         `Muito obrigado pela participação!`,
     ],
 
